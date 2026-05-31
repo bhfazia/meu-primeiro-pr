@@ -5,8 +5,9 @@ Este repositório é um sandbox para praticar o fluxo de Pull Request com Claude
 ## Como usar
 
 1. Clone o repositório
-2. Faça uma alteração
-3. Abra um Pull Request
+2. Crie uma branch
+3. Faça uma alteração
+4. Abra um Pull Request
 
 ## Sobre
 
